@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @COFerr
 - 👀 I’m interested in programming and data science/Analysis
-- 🌱 I’m currently learning Web development(HTML/CSS/Javascript/Spring Boot/React)
+- 🌱 I’m currently learning Web development(React/HTML/CSS/Javascript/Spring Boot/Mongodb)
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 You can reach me at calebe.oliveir@gmail.com
 
